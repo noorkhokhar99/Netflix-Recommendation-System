@@ -14,6 +14,6 @@ The genre of the content is one of the most valuable factors that helps Netflix 
 
 
 <p align="center">
-<img src="https://github.com/noorkhokhar99/Netflix-Recommendation-System/blob/main/testing.gif">
+<img src="https://github.com/noorkhokhar99/Netflix-Recommendation-System/blob/main/ne.mov">
 </p>
 
