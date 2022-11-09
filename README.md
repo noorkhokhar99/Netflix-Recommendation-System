@@ -13,7 +13,12 @@ The genre of the content is one of the most valuable factors that helps Netflix 
 
 
 
+data link:https://www.kaggle.com/datasets/satpreetmakhija/netflix-movies-and-tv-shows-2021
+
 <p align="center">
 <img src="https://github.com/noorkhokhar99/Netflix-Recommendation-System/blob/main/My%20Video.gif">
 </p>
 
+
+
+video: https://www.youtube.com/c/pyresearch
