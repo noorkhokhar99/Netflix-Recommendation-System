@@ -11,3 +11,9 @@ genres, category, description, and more information about the content that you w
 
 The genre of the content is one of the most valuable factors that helps Netflix recommend more content even to new users. I hope you have understood how Netflix recommends content to its users. You can learn more about it here. In the section below, I will take you through how to build a Netflix recommendation system using Python.
 
+
+
+<p align="center">
+<img src="https://github.com/noorkhokhar99/Netflix-Recommendation-System/blob/main/testing.gif">
+</p>
+
